@@ -30,7 +30,7 @@ const Footer = () => {
 
         {/* Contact Information */}
         <div className="footer-section">
-          <h4>Contact us</h4>
+          <h4>Contact Information</h4>
           <p>Email: <a href="mailto:contact@schemehub.gov.in">contact@schemehub.gov.in</a></p>
           <p>Phone: 1800-123-4567</p>
           <p>Address: Government Building, Sector-1, New Delhi, India</p>
